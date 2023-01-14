@@ -27,4 +27,4 @@ To keep this collection up-to-date need contributors who can add more Program Ar
 
 # :moneybag: [Donate](https://saweria.co/arthasyarif)
 
-# :mag:  [URL Website](https://robotika-smkn1.github.io/web)
+# :mag:  [URL Website](https://robotika-smkn1.github.io)
