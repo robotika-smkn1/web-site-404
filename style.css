@@ -319,6 +319,7 @@ nav .menu .menu_icon:hover .icon:after {
 .wrapper .container .scene {
   position: absolute;
   width: 100vw;
+  transform-style: preserve-3d;
   height: 100vh;
   vertical-align: middle;
 }
@@ -476,7 +477,7 @@ nav .menu .menu_icon:hover .icon:after {
   color: white;
 }
 .wrapper .container .p404 {
-  font-size: 200px;
+  font-size: 80px;
   font-weight: 700;
   letter-spacing: 4px;
   color: white;
@@ -485,8 +486,10 @@ nav .menu .menu_icon:hover .icon:after {
   align-items: center;
   position: absolute;
   z-index: 2;
+  transform-style: preserve-3d;
   animation: anime404 0.6s cubic-bezier(0.3, 0.8, 1, 1.05) both;
   animation-delay: 1.2s;
+  text-shadow: 0 0 40px #242424;
 }
 @media screen and (max-width: 799px) {
   .wrapper .container .p404 {
