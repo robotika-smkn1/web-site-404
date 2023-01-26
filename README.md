@@ -1,4 +1,4 @@
-# :pushpin: Website Robotika Smkn1 Kota Bekasi
+# :pushpin: Website 404 NOT FOUND
 
 
 
@@ -27,4 +27,4 @@ To keep this collection up-to-date need contributors who can add more Program Ar
 
 # :moneybag: [Donate](https://saweria.co/arthasyarif)
 
-# :mag:  [URL Website](https://robotika-smkn1.github.io)
+# :mag:  [URL Website](https://robotika-smkn1.github.io/web-site-404)
